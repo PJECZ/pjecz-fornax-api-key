@@ -1,0 +1,6 @@
+@pjecz_fornax_api_key_HostAddress = http://localhost:5135
+
+GET {{pjecz_fornax_api_key_HostAddress}}/helloworld/
+Accept: application/json
+
+###
